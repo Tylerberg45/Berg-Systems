@@ -1,0 +1,9 @@
+{
+  "name": "berg-systems",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Berg Systems marketing site",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
